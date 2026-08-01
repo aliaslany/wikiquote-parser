@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "required": [
+    "id",
+    "author_id",
+    "source_id",
+    "original_language"
+  ]
+}

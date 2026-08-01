@@ -1,0 +1,14 @@
+[
+  {
+    "code": "en",
+    "name": "English",
+    "native": "English",
+    "rtl": false
+  },
+  {
+    "code": "fa",
+    "name": "Persian",
+    "native": "فارسی",
+    "rtl": true
+  }
+]

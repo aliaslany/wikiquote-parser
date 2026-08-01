@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "required": [
+    "quote_id",
+    "language",
+    "text"
+  ]
+}
