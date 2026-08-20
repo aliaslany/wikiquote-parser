@@ -1,0 +1,7 @@
+[
+  {"id":"demo-001","author":"Albert Einstein","role":"Physicist","en":"Life is like riding a bicycle. To keep your balance, you must keep moving.","fa":"زندگی مانند دوچرخه‌سواری است؛ برای حفظ تعادل باید به حرکت ادامه دهید.","tags":["life","science"]},
+  {"id":"demo-002","author":"Socrates","role":"Philosopher","en":"The unexamined life is not worth living.","fa":"زندگیِ نیازموده ارزش زیستن ندارد.","tags":["philosophy","life"]},
+  {"id":"demo-003","author":"Marie Curie","role":"Physicist & Chemist","en":"Nothing in life is to be feared; it is only to be understood.","fa":"در زندگی چیزی برای ترسیدن وجود ندارد؛ تنها باید آن را فهمید.","tags":["science","courage"]},
+  {"id":"demo-004","author":"Marcus Aurelius","role":"Roman Emperor & Philosopher","en":"You have power over your mind — not outside events. Realize this, and you will find strength.","fa":"تو بر ذهن خود قدرت داری، نه بر رویدادهای بیرونی. این را دریاب و نیرو خواهی یافت.","tags":["stoicism","strength"]},
+  {"id":"demo-005","author":"Leonardo da Vinci","role":"Artist & Inventor","en":"Learning never exhausts the mind.","fa":"یادگیری هرگز ذهن را خسته نمی‌کند.","tags":["learning","curiosity"]}
+]
